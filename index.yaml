@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  - name: test_chart
+    version: 1.0.0
+    description: A Helm chart for my application.
+    keywords:
+      - my
+      - application
+      - keywords
+    home: https://github.com/manipy/test_chart.git
+    sources:
+      - https://github.com/manipy/test_chart.git
+    maintainers:
+      - name: mani
+        email: your.email@example.com
+    created: 2023-09-28T00:00:00Z
